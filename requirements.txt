@@ -1,3 +1,5 @@
+cchardet
+aiodns
 matplotlib
 pandas
 websockets

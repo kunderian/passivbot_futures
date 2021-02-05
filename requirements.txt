@@ -1,4 +1,4 @@
-maplotlib
+matplotlib
 pandas
 websockets
 ccxt

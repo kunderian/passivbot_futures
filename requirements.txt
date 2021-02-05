@@ -1,5 +1,5 @@
 cchardet
-chardet==2.1.1
+chardet==3.0.4
 idna==2.5
 aiodns
 matplotlib

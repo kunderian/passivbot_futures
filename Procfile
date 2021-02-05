@@ -1,1 +1,1 @@
-web: python3 start_bot.py binance default --log-file -
+python3 start_bot.py binance antiphon 

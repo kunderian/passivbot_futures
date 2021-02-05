@@ -1,0 +1,4 @@
+maplotlib
+pandas
+websockets
+ccxt

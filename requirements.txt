@@ -1,4 +1,5 @@
 cchardet
+idna==3.0
 aiodns
 matplotlib
 pandas
